@@ -14,3 +14,5 @@ https://www.roberthalf.com/blog/job-interview-tips/7-essential-wireless-network-
 http://www.rfwireless-world.com/jobs/WLAN-interview-questions-answers.html
 
 http://www.careerride.com/wifi-interview-questions.aspx
+
+https://www.cisco.com/c/en/us/td/docs/routers/access/wireless/software/guide/SecurityAuthenticationTypes.html
