@@ -29,3 +29,7 @@ https://stackoverflow.com/questions/38987/how-to-merge-two-dictionaries-in-a-sin
 Count Elements in a list
 
 https://stackoverflow.com/questions/2600191/how-can-i-count-the-occurrences-of-a-list-item-in-python?rq=1
+
+Find index of element in a list (bonus points for duplicates)
+https://stackoverflow.com/questions/176918/finding-the-index-of-an-item-given-a-list-containing-it-in-python?rq=1
+
