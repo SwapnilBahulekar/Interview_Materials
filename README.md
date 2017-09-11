@@ -19,3 +19,6 @@ https://www.cisco.com/c/en/us/td/docs/routers/access/wireless/software/guide/Sec
 
 # Python Hacks
 https://stackoverflow.com/questions/23294658/asking-the-user-for-input-until-they-give-a-valid-response
+
+Dictionary Comprehensions
+https://stackoverflow.com/questions/26027899/python-code-test-in-interview-for-junior-dev
