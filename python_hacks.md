@@ -15,3 +15,9 @@ https://stackoverflow.com/questions/26027899/python-code-test-in-interview-for-j
 Calling an External Command in Python: 
 
 https://stackoverflow.com/questions/89228/calling-an-external-command-in-python?rq=1
+
+https://stackoverflow.com/questions/4760215/running-shell-command-from-python-and-capturing-the-output?rq=1
+
+Remove a key from the dictionary
+
+https://stackoverflow.com/questions/11277432/how-to-remove-a-key-from-a-python-dictionary?rq=1
