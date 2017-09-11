@@ -16,3 +16,6 @@ http://www.rfwireless-world.com/jobs/WLAN-interview-questions-answers.html
 http://www.careerride.com/wifi-interview-questions.aspx
 
 https://www.cisco.com/c/en/us/td/docs/routers/access/wireless/software/guide/SecurityAuthenticationTypes.html
+
+# Python Hacks
+https://stackoverflow.com/questions/23294658/asking-the-user-for-input-until-they-give-a-valid-response
