@@ -41,3 +41,7 @@ https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do?rq=1
 if __name__ == "__main__"
 
 https://stackoverflow.com/questions/419163/what-does-if-name-main-do?rq=1
+
+Python Ternary Operator
+
+https://stackoverflow.com/questions/394809/does-python-have-a-ternary-conditional-operator?rq=1
