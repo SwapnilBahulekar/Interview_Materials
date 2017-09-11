@@ -21,3 +21,7 @@ https://stackoverflow.com/questions/4760215/running-shell-command-from-python-an
 Remove a key from the dictionary
 
 https://stackoverflow.com/questions/11277432/how-to-remove-a-key-from-a-python-dictionary?rq=1
+
+Merge two dictionaries in one line
+https://stackoverflow.com/questions/38987/how-to-merge-two-dictionaries-in-a-single-expression?noredirect=1&lq=1
+
