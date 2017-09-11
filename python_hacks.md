@@ -45,3 +45,9 @@ https://stackoverflow.com/questions/419163/what-does-if-name-main-do?rq=1
 Python Ternary Operator
 
 https://stackoverflow.com/questions/394809/does-python-have-a-ternary-conditional-operator?rq=1
+
+
+Reverse String
+
+https://stackoverflow.com/questions/931092/reverse-a-string-in-python
+
