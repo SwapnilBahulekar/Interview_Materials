@@ -31,8 +31,13 @@ Count Elements in a list
 https://stackoverflow.com/questions/2600191/how-can-i-count-the-occurrences-of-a-list-item-in-python?rq=1
 
 Find index of element in a list (bonus points for duplicates)
+
 https://stackoverflow.com/questions/176918/finding-the-index-of-an-item-given-a-list-containing-it-in-python?rq=1
 
 Yield Keyword
+
 https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do?rq=1
 
+if __name__ == "__main__"
+
+https://stackoverflow.com/questions/419163/what-does-if-name-main-do?rq=1
