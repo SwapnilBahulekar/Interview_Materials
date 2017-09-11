@@ -51,3 +51,6 @@ Reverse String
 
 https://stackoverflow.com/questions/931092/reverse-a-string-in-python
 
+Check if a file exist or not
+
+https://stackoverflow.com/questions/82831/how-do-i-check-whether-a-file-exists-using-python
