@@ -63,3 +63,7 @@ https://stackoverflow.com/questions/237079/how-to-get-file-creation-modification
 Time Delay
 
 https://stackoverflow.com/questions/510348/how-can-i-make-a-time-delay-in-python
+
+Making a flat list out of lists in python
+
+https://stackoverflow.com/questions/952914/making-a-flat-list-out-of-list-of-lists-in-python
