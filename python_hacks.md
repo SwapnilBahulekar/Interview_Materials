@@ -54,3 +54,12 @@ https://stackoverflow.com/questions/931092/reverse-a-string-in-python
 Check if a file exist or not
 
 https://stackoverflow.com/questions/82831/how-do-i-check-whether-a-file-exists-using-python
+
+
+Hot to get details of a file
+https://stackoverflow.com/questions/237079/how-to-get-file-creation-modification-date-times-in-python?rq=1
+
+
+Time Delay
+
+https://stackoverflow.com/questions/510348/how-can-i-make-a-time-delay-in-python
